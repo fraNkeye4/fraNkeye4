@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/35160997/README.1.md)
+
 <div align="center">
 
 # Hey, I'm David 👋
