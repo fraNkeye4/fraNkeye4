@@ -15,7 +15,7 @@
 
 ### About me
 
-I'm a student developer based in Israel, interested in building useful software, experimenting with autonomous systems, and understanding how hardware and software work together.
+I'm a student developer, interested in building useful software, experimenting with autonomous systems, and understanding how hardware and software work together.
 
 - 🤖 Exploring **AI agents and workflow automation**
 - ⚙️ Interested in **robotics, embedded systems, and applied physics**
