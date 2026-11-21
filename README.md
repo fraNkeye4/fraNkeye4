@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm David 👋
+# Hey 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+AI-powered+tools+%26+automation;Exploring+robotics+%26+applied+physics;Learning+by+building+real+projects)](https://git.io/typing-svg)
 
